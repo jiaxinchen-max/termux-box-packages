@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-31T15:03:04Z",
+  "generatedAt": "2026-07-31T15:36:05Z",
   "packages": [
     {
       "id": "box64-binaries",
@@ -37,10 +37,10 @@
     {
       "id": "scripts",
       "category": "runtime",
-      "version": 27,
-      "url": "https://github.com/jiaxinchen-max/termux-box-packages/releases/download/scripts-v27/scripts.tar.xz",
-      "size": 12552020,
-      "sha256": "591aac146199c5e3728928c13134dab38fa114ae38fbb24ecc7f803afa70a115"
+      "version": 28,
+      "url": "https://github.com/jiaxinchen-max/termux-box-packages/releases/download/scripts-v28/scripts.tar.xz",
+      "size": 13323176,
+      "sha256": "e8b9991025ad7a4124697ce54b11cf5fb765e4705dad760dcbd10e0a956582ff"
     },
     {
       "id": "turnip",
